@@ -1,17 +1,28 @@
-# sessao_estudos
+# Sessões de Estudo — Flutter
 
-A new Flutter project.
+Projeto acadêmico desenvolvido em **Flutter e Dart** para praticar o uso de listas, mapas, formulários e construção de interfaces.
 
-## Getting Started
+O aplicativo permite cadastrar, visualizar, editar e excluir sessões de estudo.
 
-This project is a starting point for a Flutter application.
+## Conceitos trabalhados
 
-A few resources to get you started if this is your first Flutter project:
+- List e Map
+- ListView.builder
+- StatefulWidget e setState
+- Formulários e validação de campos
+- Navegação entre telas
+- Construção de interfaces com Flutter
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologias utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart
+- Flutter
+- Material Design
+
+## Armazenamento
+
+Os registros são mantidos em memória durante a execução do aplicativo, utilizando uma lista de mapas.
+
+Os dados não são persistidos após o encerramento da aplicação.
+
+**Finalidade:** projeto acadêmico desenvolvido para aprendizado e prática dos conteúdos apresentados em aula.
